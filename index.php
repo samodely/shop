@@ -13,6 +13,6 @@
             $contr->index();
         ?>
         
-        asdasdasdasdasdasdasdasd<-- это измененная хрень -->
+        Сделали категории
     </body>
 </html>
