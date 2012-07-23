@@ -11,6 +11,7 @@ abstract class Action {
         $this->tmpl = $name;
     }
     
+    // кодим кодим
     
     /**
      * Рендерит шаблон вида 
